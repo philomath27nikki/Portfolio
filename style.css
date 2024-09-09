@@ -13,9 +13,18 @@ body {
     transition: background 0.3s ease-in-out;
 }
 
-h1, h2, h3 {
-    color: #34495e;
+h1 {
+    color: #e74c3c; /* Red for h1 */
 }
+
+h2 {
+    color: #3498db; /* Blue for h2 */
+}
+
+h3 {
+    color: #2ecc71; /* Green for h3 */
+}
+
 
 a {
     text-decoration: none;
